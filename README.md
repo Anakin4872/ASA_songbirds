@@ -8,4 +8,4 @@ $$P(\theta) = 0.5 \times (1 + \cos\theta)$$,
 
 where $\theta$ is the angle between the mic’s forward axis and the direction of the incoming sound.
 
-![mic](cardioid.png)
+![mic](images/cardioid.png)
